@@ -1,0 +1,40 @@
+2021-11-23 17:49:50.8673|INFO|UnitTests.UnitTest|PublicFieldTest  test passed.
+2021-11-23 17:49:50.9302|INFO|UnitTests.UnitTest|PublicPropertyTest  test passed.
+2021-11-23 17:49:50.9302|INFO|UnitTests.UnitTest|ListTest  test passed.
+2021-11-23 17:49:50.9302|INFO|UnitTests.UnitTest|PrivateFieldsAndPropertiesTest  test passed.
+2021-11-23 17:49:50.9448|INFO|UnitTests.UnitTest|StringPluginTest  test passed.
+2021-11-23 17:49:50.9448|INFO|UnitTests.UnitTest|CharPluginTest  test passed.
+2021-11-23 17:49:50.9448|INFO|UnitTests.UnitTest|ConstructorTest  test passed.
+2021-11-23 17:49:50.9448|INFO|UnitTests.UnitTest|ManyConstructorTest  test passed.
+2021-11-23 17:49:50.9448|INFO|UnitTests.UnitTest|DependencyTest  test passed.
+2021-11-23 17:49:50.9448|INFO|UnitTests.UnitTest|ExceptionTest  test passed with exception $Circle dependency!.
+2021-11-23 17:49:55.3016|INFO|UnitTests.UnitTest|PublicFieldTest  test passed.
+2021-11-23 17:49:55.3802|INFO|UnitTests.UnitTest|PublicPropertyTest  test passed.
+2021-11-23 17:49:55.3802|INFO|UnitTests.UnitTest|ListTest  test passed.
+2021-11-23 17:49:55.3802|INFO|UnitTests.UnitTest|PrivateFieldsAndPropertiesTest  test passed.
+2021-11-23 17:49:55.3802|INFO|UnitTests.UnitTest|StringPluginTest  test passed.
+2021-11-23 17:49:55.3965|INFO|UnitTests.UnitTest|CharPluginTest  test passed.
+2021-11-23 17:49:55.3965|INFO|UnitTests.UnitTest|ConstructorTest  test passed.
+2021-11-23 17:49:55.3965|INFO|UnitTests.UnitTest|ManyConstructorTest  test passed.
+2021-11-23 17:49:55.4076|INFO|UnitTests.UnitTest|DependencyTest  test passed.
+2021-11-23 17:49:55.4076|INFO|UnitTests.UnitTest|ExceptionTest  test passed with exception $Circle dependency!.
+2021-11-23 19:51:09.5487|INFO|UnitTests.UnitTest|PublicFieldTest  test passed.
+2021-11-23 19:51:09.6208|INFO|UnitTests.UnitTest|PublicPropertyTest  test passed.
+2021-11-23 19:51:09.6281|INFO|UnitTests.UnitTest|ListTest  test passed.
+2021-11-23 19:51:09.6281|INFO|UnitTests.UnitTest|PrivateFieldsAndPropertiesTest  test passed.
+2021-11-23 19:51:09.6281|INFO|UnitTests.UnitTest|StringPluginTest  test passed.
+2021-11-23 19:51:09.6281|INFO|UnitTests.UnitTest|CharPluginTest  test passed.
+2021-11-23 19:51:09.6281|INFO|UnitTests.UnitTest|ConstructorTest  test passed.
+2021-11-23 19:51:09.6438|INFO|UnitTests.UnitTest|ManyConstructorTest  test passed.
+2021-11-23 19:51:09.6438|INFO|UnitTests.UnitTest|DependencyTest  test passed.
+2021-11-23 19:51:09.6438|INFO|UnitTests.UnitTest|ExceptionTest  test passed with exception $Circle dependency!.
+2021-11-23 19:51:13.0876|INFO|UnitTests.UnitTest|PublicFieldTest  test passed.
+2021-11-23 19:51:13.1662|INFO|UnitTests.UnitTest|PublicPropertyTest  test passed.
+2021-11-23 19:51:13.1662|INFO|UnitTests.UnitTest|ListTest  test passed.
+2021-11-23 19:51:13.1662|INFO|UnitTests.UnitTest|PrivateFieldsAndPropertiesTest  test passed.
+2021-11-23 19:51:13.1662|INFO|UnitTests.UnitTest|StringPluginTest  test passed.
+2021-11-23 19:51:13.1819|INFO|UnitTests.UnitTest|CharPluginTest  test passed.
+2021-11-23 19:51:13.1819|INFO|UnitTests.UnitTest|ConstructorTest  test passed.
+2021-11-23 19:51:13.1819|INFO|UnitTests.UnitTest|ManyConstructorTest  test passed.
+2021-11-23 19:51:13.1819|INFO|UnitTests.UnitTest|DependencyTest  test passed.
+2021-11-23 19:51:13.1819|INFO|UnitTests.UnitTest|ExceptionTest  test passed with exception $Circle dependency!.

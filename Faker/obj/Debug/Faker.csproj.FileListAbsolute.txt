@@ -1,0 +1,35 @@
+C:\Users\User\Desktop\SPP_2-master\Faker\bin\Debug\Faker.exe.config
+C:\Users\User\Desktop\SPP_2-master\Faker\bin\Debug\Faker.exe
+C:\Users\User\Desktop\SPP_2-master\Faker\bin\Debug\Faker.pdb
+C:\Users\User\Desktop\SPP_2-master\Faker\obj\Debug\Faker.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SPP_2-master\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SPP_2-master\Faker\obj\Debug\Faker.exe
+C:\Users\User\Desktop\SPP_2-master\Faker\obj\Debug\Faker.pdb
+C:\Users\User\Desktop\СПП\СПП2\Faker\bin\Debug\Faker.exe.config
+C:\Users\User\Desktop\СПП\СПП2\Faker\bin\Debug\Faker.exe
+C:\Users\User\Desktop\СПП\СПП2\Faker\bin\Debug\Faker.pdb
+C:\Users\User\Desktop\СПП\СПП2\Faker\obj\Debug\Faker.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\СПП\СПП2\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\СПП\СПП2\Faker\obj\Debug\Faker.exe
+C:\Users\User\Desktop\СПП\СПП2\Faker\obj\Debug\Faker.pdb
+D:\5 семетср\СПП2\Faker\bin\Debug\Faker.exe.config
+D:\5 семетср\СПП2\Faker\bin\Debug\Faker.exe
+D:\5 семетср\СПП2\Faker\bin\Debug\Faker.pdb
+D:\5 семетср\СПП2\Faker\obj\Debug\Faker.csproj.AssemblyReference.cache
+D:\5 семетср\СПП2\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+D:\5 семетср\СПП2\Faker\obj\Debug\Faker.exe
+D:\5 семетср\СПП2\Faker\obj\Debug\Faker.pdb
+D:\SPP\СПП2\Faker\bin\Debug\Faker.exe.config
+D:\SPP\СПП2\Faker\bin\Debug\Faker.exe
+D:\SPP\СПП2\Faker\bin\Debug\Faker.pdb
+D:\SPP\СПП2\Faker\obj\Debug\Faker.csproj.AssemblyReference.cache
+D:\SPP\СПП2\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+D:\SPP\СПП2\Faker\obj\Debug\Faker.exe
+D:\SPP\СПП2\Faker\obj\Debug\Faker.pdb
+D:\SPP\MPP_2\Faker\bin\Debug\Faker.exe.config
+D:\SPP\MPP_2\Faker\bin\Debug\Faker.exe
+D:\SPP\MPP_2\Faker\bin\Debug\Faker.pdb
+D:\SPP\MPP_2\Faker\obj\Debug\Faker.csproj.AssemblyReference.cache
+D:\SPP\MPP_2\Faker\obj\Debug\Faker.csproj.CoreCompileInputs.cache
+D:\SPP\MPP_2\Faker\obj\Debug\Faker.exe
+D:\SPP\MPP_2\Faker\obj\Debug\Faker.pdb
